@@ -1,0 +1,5 @@
+canvas {
+    border: 1px solid black;
+    background-image: url("court_background.jpg");
+    background-size: 975px 600px;
+}
